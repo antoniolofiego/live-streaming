@@ -10,10 +10,10 @@ function App() {
                 <p>You should join the #100DaysOfCloud Discord Server!</p>
                 <a
                     className='App-link'
-                    href='https://reactjs.org'
+                    href='https://100daysofcloud.com'
                     target='_blank'
                     rel='noopener noreferrer'>
-                    Learn React
+                    Join us!
                 </a>
             </header>
         </div>
